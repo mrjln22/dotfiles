@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mvdree15@hotmail.com
+	name = Marjolijn vanderRee
